@@ -1,12 +1,12 @@
 {
-    "version": "1.1.1-20220816",
+    "version": "1.1.1-20220917",
     "description": "A handwriting notetaking software with PDF annotation support",
     "homepage": "https://github.com/xournalpp/xournalpp",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xournalpp/xournalpp/releases/download/nightly/xournalpp-1.1.1+dev-nightly.20220816-windows.zip",
-            "hash": "181aac4f96bec5ab0e8d07ef0e9bd7ca07141ca71653177d335e140fda14b471"
+            "url": "https://github.com/xournalpp/xournalpp/releases/download/nightly/xournalpp-1.1.1+dev-nightly.20220917-windows.zip",
+            "hash": "b7d75c28b62eab251f71a6c8c460a60c99b860f4d79195d27d5e918c3bc20bab"
         }
     },
     "pre_install": [

@@ -1,5 +1,5 @@
 {
-    "version": "105.0b5",
+    "version": "106.0b2",
     "description": "Developer builds of Firefox: the popular open source web browser",
     "homepage": "https://www.mozilla.org/en-US/firefox/developer/",
     "license": "MPL-2.0",
@@ -11,12 +11,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://archive.mozilla.org/pub/devedition/releases/105.0b5/win64/en-US/Firefox%20Setup%20105.0b5.exe#/dl.7z",
-            "hash": "sha512:f9967ac40c98eacf7f016586398a6b1a6f268345f1430ea03064f5fdc305cde9236c5168ee334323e9614dfc706eb868623dfe4b29c54c8dc048fb28f7a99cd7"
+            "url": "https://archive.mozilla.org/pub/devedition/releases/106.0b2/win64/en-US/Firefox%20Setup%20106.0b2.exe#/dl.7z",
+            "hash": "sha512:6cffb69a8e211cac6dcea401ef5a275e2eef89f065d4a0e83a95995c05f5131a6640e4c32d3191efa5117555f685d5b90383e993fa6a1245f5d927a89852f435"
         },
         "32bit": {
-            "url": "https://archive.mozilla.org/pub/devedition/releases/105.0b5/win32/en-US/Firefox%20Setup%20105.0b5.exe#/dl.7z",
-            "hash": "sha512:94b21e756654d5cb97cd3e2923685dccfaa62112469168a486ec53448a40d88ae302d39d7e25dfac2144ce4d1bfed74fc77f09b2c105108e3b9adadc421ba14d"
+            "url": "https://archive.mozilla.org/pub/devedition/releases/106.0b2/win32/en-US/Firefox%20Setup%20106.0b2.exe#/dl.7z",
+            "hash": "sha512:2cc375f0010252d71a78a94101c8c90ac2cc70f7c8756798c28e770f2764168cb1a93a03f70800cd72b37d9837b1539d598d8a0ea364a03967bf642e20d22a74"
         }
     },
     "extract_dir": "core",

@@ -1,5 +1,5 @@
 {
-    "version": "RFRcxf",
+    "version": "s93YgX",
     "description": "GN is a meta-build system that generates build files for Ninja.",
     "homepage": "https://gn.googlesource.com/gn",
     "license": "BSD-3-Clause",
@@ -9,8 +9,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://chrome-infra-packages.appspot.com/dl/gn/gn/windows-amd64/+/RFRcxfmDGGnXC7p-QOI5ab8ynAvK_gFdhdWkwO4qfJAC#/gn-windows-amd64.zip",
-            "hash": "44545cc5f9831869d70bba7e40e23969bf329c0bcafe015d85d5a4c0ee2a7c90"
+            "url": "https://chrome-infra-packages.appspot.com/dl/gn/gn/windows-amd64/+/s93YgXDTYEcXVS6qbBfVZIu9LYd1GtqgurIwZx1mHXIC#/gn-windows-amd64.zip",
+            "hash": "b3ddd88170d3604717552eaa6c17d5648bbd2d87751adaa0bab230671d661d72"
         }
     },
     "bin": "gn.exe",
